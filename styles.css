@@ -193,3 +193,12 @@ p {
     width: 100px;
     height: 50px
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 75px;
+}
